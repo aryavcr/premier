@@ -5,11 +5,15 @@
 @supports (font-variation-settings: normal) {
   :root { font-family: InterVariable, sans-serif; }
 }
+@font-face {
+    font-family: "Monument";
+    src: url("/fonts/MonumentExtended-Regular.otf")
+}
 html, body {
     height: 100%;
     width: 100%;
     background-color: #f8f8f8;
-    font-family: "Inter Display";
+    font-family: "Inter";
     margin: 0;
     padding: 0 ;
     scroll-behavior: smooth;
@@ -252,7 +256,7 @@ html, body {
 }
 .something {
     line-height: 1px;
-    font-family: "Inter Display";
+    font-family: "Inter";
     font-size: 30px;
     margin-bottom:15px;
 }
