@@ -202,7 +202,6 @@ html, body {
     grid-column: 3;
 }
 .lines2 {
-    border-left: 1px solid black;
     font-style:"Inter" ;
     margin-top:20px;
     padding:20px;
