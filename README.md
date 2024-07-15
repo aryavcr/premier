@@ -1,4 +1,5 @@
 # Premier
+(not responsive yet)
 live at : https://premier-alpha.vercel.app
 # Screenshots
 
